@@ -24,11 +24,20 @@
     border-bottom: 1px solid #cccccc !important;
   } 
 
+.info {
+  font-family: 'Georgia', Times, Times New Roman, serif;
+  font-size: 12pt;
+  background-color: white;
+  color: blue !important;
+  padding: 2px
+}
+
+
   h3 {
     font-family: 'Georgia', Times, Times New Roman, serif;
     font-size: 16pt;
-    background-color: #4aaaa5;
-    color: white;
+    background-color: white;
+    color: blue !important;
     padding: 20px
   } 
 
